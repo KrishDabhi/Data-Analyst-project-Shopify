@@ -6,7 +6,7 @@ Download Data: [https://drive.google.com/file/d/1Jh52pxbc5JHmOZRnHrvOwdSoHJf1f8O
 
 
 Project Overview: <br/>
-  SQL project determining which Shopify apps have the best ratings and reviews for each category &amp; pricing plan to determine what models work the best in attracting clients and maintaining a consumer subscription. <br/>
+SQL project determining which Shopify apps have the best ratings and reviews for each category &amp; pricing plan to determine what models work the best in attracting clients and maintaining a consumer subscription. <br/>
 
     
 Schema Design:
