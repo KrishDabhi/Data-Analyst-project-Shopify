@@ -1,4 +1,4 @@
-# Shopify-Data-Analyst-Project
+Shopify-Data-Analyst-Project
 SQL project comparing Shopify apps. <br/>
 Methods: Data Cleansing, Data Visualization, SQL Querying, Statistical Inference <br/>
 Technologies: PostgresSQL, Excel, Tableau <br/>
